@@ -1,0 +1,17 @@
+{
+  "name": "picoctf2018",
+  "version": "1.0.0",
+  "description": "Contenedor de scripts usados para la resolución del picoCTF2018",
+  "main": "dummy.js",
+  "dependencies": {
+    "d3": "^5.16.0",
+    "lodash": "^4.17.19",
+    "nodeplotlib": "^0.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HaroldsTeam",
+  "license": "ISC"
+}

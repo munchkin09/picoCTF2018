@@ -1,0 +1,2 @@
+#la_nuesta_hasheada(pepe, 1234) "dg4rE+hfl3kDUxbzc5Bb8gJFQQhT9hXbTRDiXKbUSrOybBTD6xxS47Isykd3ZU53IZMp8IDRnIsKY6aXZKsT0PCPu37nua3rZLHiqRKNsLg="
+la del cacharro(pelos,pelos)   'eyJfZmxhc2hlcyI6W3siIHQiOlsibWVzc2FnZSIsIkVycm9yOiBQbGVhc2UgbG9nLWluIGFnYWluLiJdfV19=='

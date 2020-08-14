@@ -1,0 +1,7 @@
+251.71.156.29
+3
+1.00
+What is the number of unique destination ips a file is sent, on average? Needs to be correct to 2 decimal places.
+0.88
+
+scalpel -b ext-super-magic.img -o audit -c scalpel.conf
